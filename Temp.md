@@ -32,3 +32,27 @@ This is a *italic* text.
 ***
 
 ![Markdown Image](/90-Days-of-JavaScript/Screeshot(960).png)
+
+***
+
+```javascript
+let firstName = "Saeed";
+```
+
+***
+
+> This is a sentence
+
+***
+|col1|col2|col3|
+|-----|-----|-----|
+|item|item|item|
+|item|item|item|
+|item|item|item|
+|item|item|item|
+
+***
+<details>
+<summary>HTML</summary>
+hyper text markup language.
+</details>
